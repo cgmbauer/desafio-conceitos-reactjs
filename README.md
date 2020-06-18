@@ -49,7 +49,7 @@ yarn dev
 yarn start
 ```
 
-## Note
+## Nota
 
 Caso o back-end ou o front-end sejam desligados, os dados criados em tela **serão perdidos**.
 
