@@ -1,6 +1,7 @@
-<p align="center"> 
-  <img src='https://github.com/cgmbauer/assets/blob/master/logo/react-seeklogo.com.svg' alt='ReactJS logo' width="200px" height="123px" />
-</p>
+  <p >
+    <img src='https://github.com/cgmbauer/assets/blob/master/logo/react-seeklogo.com.svg' alt='GoStack logo' float="left" width="350px" height="123px" />
+    <img src='https://github.com/cgmbauer/assets/blob/master/logo/rocketseat.png' alt='GoStack logo' float="right" width="350px" height="123px" />
+  </p>
 
 # Desafio - Conceitos de ReactJS
 
